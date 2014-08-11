@@ -4,13 +4,16 @@
 
 click [here](http://ryancheunggit.github.io/UJS2012MLIS2048/) and get ready to be addicted    
 点击 [这里](http://ryancheunggit.github.io/UJS2012MLIS2048/)    
-基于(http://gabrielecirulli.github.io/2048/)修改的2048游戏    
+   
 
 ### Screenshot 截图
 
 <p align="center">
   <img src="http://www.ryanzhang.info/other/2048.png" alt="Screenshot"/>
 </p>
+
+基于(http://gabrielecirulli.github.io/2048/)修改的2048游戏 
+
 ### Contributions
 
  - [TimPetricola](https://github.com/TimPetricola) added best score storage
