@@ -2,8 +2,8 @@
 
 ## To play the game 如何玩？
 
-click [here](http://ryancheunggit.github.io/UJS2012MLIS2048/) and get ready to be addicted    
-点击 [这里](http://ryancheunggit.github.io/UJS2012MLIS2048/)    
+click [here](http://ryancheunggit.github.io/2048_UJS_Style/) and get ready to be addicted    
+点击 [这里](http://ryancheunggit.github.io/2048_UJS_Style/)    
    
 
 ### Screenshot 截图
